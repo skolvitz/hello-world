@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154 
+Hello! My name is Shannon Kolvitz. I am currently learning Java and JavaScript and would love to learn more about GitHub. 
